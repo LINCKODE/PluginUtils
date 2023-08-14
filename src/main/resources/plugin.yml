@@ -1,0 +1,7 @@
+name: PluginUtils
+version: '${version}'
+main: me.linckode.pluginutils.PluginUtils
+api-version: '1.20'
+load: STARTUP
+authors: [LINCKODE]
+website: 'https://github.com/LINCKODE'
