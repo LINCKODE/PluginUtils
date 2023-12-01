@@ -12,6 +12,9 @@ This library is intended to help bukkit plugin developers with tedious stuff dur
 
 ## Planned Features:
 
+
+
+
 - Scoreboards
 - Easy JSON POJO serialization / deserialization
 - Command system
